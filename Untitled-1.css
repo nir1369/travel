@@ -1,0 +1,41 @@
+#topbar{
+    background-color: black;
+}
+#intro{
+    background-image: url('1649333348291984962.jpg.png');
+    background-size: cover;
+    background-position: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+#welcome{
+        margin-bottom:170px ;
+        justify-content: center;
+}
+#service1{
+    background: linear-gradient(to right, #5A154A, #922278);
+}
+#number{
+    background: linear-gradient(to right,#A13172,#C33E8B);
+}
+#input{
+    background: linear-gradient(to right,#E73056,#E95038);
+}
+#dilip{
+    background: linear-gradient(to right,#F28A19,#F9B107);
+}
+#sharmila{
+    background: linear-gradient(to right,#77AC43,#94CA5F);
+}
+#pratyush{
+    background: linear-gradient(to right,#235683,#048FA3);
+}
+.name{
+    background: linear-gradient(to right,#48B2BC,#95D0D3);
+}
+.contact{
+    background: linear-gradient(to right,#279A96,#2EAEA9);
+}
+#phone{
+    background: #235683;
+}
